@@ -16,10 +16,10 @@ The Shopping Cart App is a mobile application that allows users to browse a list
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/your-username/shopping-cart-app/screenshots/screenshot1.png" alt="Screenshot 1" height="400px">
+      <img src="https://github.com/user-attachments/assets/4b01c5ea-0766-4ffd-94b6-561369282b2a" alt="Screenshot 1" height="400px">
     </td>
     <td align="center">
-      <img src="https://github.com/your-username/shopping-cart-app/screenshots/screenshot2.png" alt="Screenshot 2" height="400px">
+      <img src="https://github.com/user-attachments/assets/2c0571f4-1eb6-4a37-bdff-ce255657d5a1" alt="Screenshot 2" height="400px">
     </td>
     <td align="center">
       <img src="https://github.com/your-username/shopping-cart-app/screenshots/screenshot3.png" alt="Screenshot 3" height="400px">
