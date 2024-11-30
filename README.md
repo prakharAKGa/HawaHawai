@@ -1,16 +1,38 @@
-# hawa_hawai
+# Shopping Cart App
 
-A new Flutter project.
+## Description
+The Shopping Cart App is a mobile application that allows users to browse a list of products, view their prices after applying discounts, add products to the cart, and see a summary of the cart along with the total price.
 
-## Getting Started
+## Features
+- **Product Listing**: Display a list of products with prices and discounts, fetched from the [DummyJSON API](https://dummyjson.com/products).
+- **Pagination**: Load products in pages for better performance.
+- **Add to Cart**: Add products to the cart and update the quantity.
+- **Price Calculation**: Display the price after discount and calculate the total price based on the quantity.
+- **Cart Summary**: View the total price of items in the cart.
+- **State Management**: Uses BLoC for state management to manage product state and cart state efficiently.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/your-username/shopping-cart-app/screenshots/screenshot1.png" alt="Screenshot 1" height="400px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/your-username/shopping-cart-app/screenshots/screenshot2.png" alt="Screenshot 2" height="400px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/your-username/shopping-cart-app/screenshots/screenshot3.png" alt="Screenshot 3" height="400px">
+    </td>
+    <td align="center">
+      <img src="https://github.com/your-username/shopping-cart-app/screenshots/screenshot4.png" alt="Screenshot 4" height="400px">
+    </td>
+  </tr>
+</table>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/shopping-cart-app.git
+   cd shopping-cart-app
