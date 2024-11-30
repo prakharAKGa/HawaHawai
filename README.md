@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-30 at 10 57 56 PM](https://github.com/user-attachments/assets/09f0a469-4093-4aa6-89b9-9ae6d5724265)# Shopping Cart App
+# Shopping Cart App
 
 ## Description
 The Shopping Cart App is a mobile application that allows users to browse a list of products, view their prices after applying discounts, add products to the cart, and see a summary of the cart along with the total price.
